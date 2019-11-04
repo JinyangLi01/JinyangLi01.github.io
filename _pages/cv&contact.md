@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv&contact/
 author_profile: true
 ---
-<a href="lijinyang0228.github.io/files/cv/cv.pdf" target="_blank">[CV [PDF]].</a>
+<embed src="https://lijinyang0228.github.io/files/cv/cv.pdf" type="CV in pdf" />
 
 # Contact
 School of Computer Science, Department of EECS, Peking University<br>
