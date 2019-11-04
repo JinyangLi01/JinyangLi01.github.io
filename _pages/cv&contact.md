@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[My CV [PDF]](https://lijinyang0228/files/cv/CV.pdf)
+[My CV [PDF]](https://lijinyang0228.github.io/files/cv/CV.pdf)
 
 # Contact
 School of Computer Science, Department of EECS, Peking University<br>
