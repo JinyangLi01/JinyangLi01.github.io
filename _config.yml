@@ -76,7 +76,7 @@ social:
 author:
   name             : "Jinyang Li"
   avatar           : "photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Beijing, China"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
