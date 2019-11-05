@@ -75,7 +75,7 @@ social:
 # Site Author
 author:
   name             : "Jinyang Li"
-  avatar           : 
+  avatar           :  "photo.jpg"
   bio              : 
   location         : "Beijing, China"
   #employer         :
@@ -116,6 +116,11 @@ include:
   - .htaccess
   - _pages
   - files
+  - "*.pdf"
+  - "papers/*.pdf"
+  - "portfolio/papers/*.pdf"
+  - "portfolio/*.pdf"
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
