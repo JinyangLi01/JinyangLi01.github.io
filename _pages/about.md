@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- <h3 style="text-align:center"><img src="https://lijinyang0228.github.io/photo.jpg"></h3>
- 
- 
+        
 I am a junoir in Peking University with a computer science major. My research interests include various aspects of databases and data analysis. I love to make databases stronger, more flexible and more useful in our daily life. 
+
 
