@@ -9,12 +9,12 @@
 locale                   : "en-US"
 title                    : "Jinyang Li"
 title_separator          : "-"
-name                     : &name "Jinyang Li"
+name                     : name "Jinyang Li"
 description              : description "Computer Science Junoir Student, Peking University"
 url                      : https://lijinyang0228.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijinyang0228.github.io"
-teaser                   :  "photo.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
