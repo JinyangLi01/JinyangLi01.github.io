@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # CV
-<a href="https://lijinyang0228.github.io/files/cv/cv.pdf" target="_blank">CV PDF.</a>
+<a href="https://lijinyang0228.github.io/files/cv/CV.pdf" target="_blank">CV PDF.</a>
 
 
 # Contact
